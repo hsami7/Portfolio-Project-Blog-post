@@ -1,0 +1,37 @@
+
+
+Portfolio Project Blog post
+
+
+
+Introduction
+As a student at Université Euro-Méditerranéenne de Fès and a participant in the ALX Academy, I’ve always been passionate about using technology to create meaningful solutions. Our team embarked on a project called **Job Search Resources** to address the challenges job seekers face in finding reliable resources. 
+
+Our team, consisting of Hatim as the Backend Developer, Sami as the Frontend Developer, and myself as the Project Coordinator, started this project on September 12, 2024, and completed it by September 25, 2024. This platform was specifically designed for individuals navigating the job search process, offering them a comprehensive set of tools to improve their chances of landing their desired roles.
+
+My role involved integrating various data sources to ensure the platform had up-to-date job resources, which helped me refine my data handling skills and deepen my understanding of job seekers' needs.
+
+Personal Story
+Having been a student in both technical and software engineering fields, I understand the struggles of transitioning from education to the professional world. This project was a way to create something that would bridge this gap and provide a reliable resource for students and job seekers alike.
+
+Project Accomplishments
+Our project resulted in a platform offering personalized job alerts, resume templates, and company reviews to help users make informed career decisions.
+
+Technologies Used
+We used Python and Django for the backend due to their robust data handling capabilities and React for the frontend to create a dynamic user interface.
+
+Key Features
+1. **Job Alert System**: Users can set up personalized job alerts.
+2. **Resume Builder**: Helps users create professional resumes with pre-designed templates.
+3. **Company Reviews**: Provides insights into company cultures.
+
+Technical Challenge
+Integrating real-time chat for user support was the most challenging aspect. After researching, I chose WebSockets with Django Channels. Despite the steep learning curve, the feature significantly improved user engagement.
+
+What I Learned
+I learned about asynchronous programming and the importance of adaptability and teamwork. This project reinforced my passion for using technology to solve real-world problems.
+
+About Me
+I am a student at Université Euro-Méditerranéenne de Fès and a software engineering enthusiast passionate about creating impactful solutions. [GitHub Project](https://github.com/hsami7) | [LinkedIn](https://www.linkedin.com/in/hatim-sami-hatimsami/).
+
+
